@@ -1,3 +1,8 @@
+  
+
+
+
+
    $( document ).ready(function() { 
    	var results;
     var animals = ["cat", "dog", "bird", "cow"];
